@@ -30,6 +30,6 @@ I'm a third-year BCA student specializing in Cybersecurity, with a passion for e
 - 📱 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/garvkamra/)
 
 <!-- Your Stats -->
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=securegarv&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=securegarv&show_icons=true&theme=radical) -->
