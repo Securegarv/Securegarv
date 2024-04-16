@@ -1,5 +1,10 @@
 ### 👨‍💻Garv Kamra
 
+**'Cybersecurity Student'**
+
+I'm a third-year BCA student specializing in Cybersecurity. While some may find their passion in coding, my heart truly lies in the world of cybersecurity and robotics. I've delved deep into various operating systems like Kali Linux and Arch, gaining valuable insights and hands-on experience along the way..
+Aside from my adventures in operating systems, I've also dabbled in the art of graphic design, crafting posters and graphics that capture attention. Whether it's creating eye-catching visuals for events or designing engaging content for social media. Beyond the world of cybersecurity and design, I've embarked on an exciting journey as a startup founder. My e-learning platform offers a gateway to high-end topics simplified for young minds to grasp easily. It's a passion project where education meets innovation, empowering kids to explore and learn in a fun and accessible way. You can check out my e-learning platform ["here"](www.neevcode.com) 
+
 <!--
 **Securegarv/Securegarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
