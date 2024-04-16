@@ -1,5 +1,5 @@
 <!-- Your Banner -->
-![Your Name's Banner](link_to_your_banner_image)
+![Your Name's Banner](banner.png)
 
 <!-- Your Introduction -->
 ### Hi there, I'm [Your Name]! 👋
